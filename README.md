@@ -1,18 +1,18 @@
-# Proyecto Música 
+#  Mi Mundo Musical
 
 ## Descripción
-Este proyecto es una página web sobre música desarrollada como práctica utilizando HTML. 
-La página muestra contenido relacionado con música y su propósito es aplicar los conocimientos básicos de desarrollo web.
+Mi Mundo Musical es una página web desarrollada en HTML que presenta contenido relacionado con la música. 
+El objetivo del proyecto es aplicar los conocimientos básicos de estructura y etiquetas HTML.
 
-## Tecnologías utilizadas
+## 🛠 Tecnologías utilizadas
 - HTML5
 
 ## Estructura del proyecto
-- index.html → Archivo principal de la página web.
+- index.html → Archivo principal que contiene la estructura de la página web.
 
 ## Cómo visualizar el proyecto
 1. Descargar el repositorio.
 2. Abrir el archivo index.html en cualquier navegador web.
 
-## Autor
+##  Autor
 Delys
